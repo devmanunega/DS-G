@@ -1,0 +1,36 @@
+{
+  "name": "ds-g",
+  "version": "1.0.0",
+  "description": "Dashboard de sericios",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmanunega/DS-G.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "nodejs",
+    "express",
+    "ejs",
+    "dashboard"
+  ],
+  "author": "Devmanunega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmanunega/DS-G/issues"
+  },
+  "homepage": "https://github.com/devmanunega/DS-G#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
